@@ -1,0 +1,11 @@
+Versión 0.0.4
+
+----------------------------------------------------------------------------
+Edición interna de la web:
+
+Añadido Changelog 
+
+Mejorada seguridad interna 
+
+Pasos explicados para el equipo de desarrollo
+----------------------------------------------------------------------------
