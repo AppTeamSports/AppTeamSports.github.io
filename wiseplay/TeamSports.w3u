@@ -13,9 +13,9 @@
 
 			"image": "https://appteamsports.github.io/icon.jpg",
 
-			"url": "https://appteamsports.github.io/#sports"
+			"url": "https://appteamsports.github.io/#sports", 
 
-
+			"embed" : true
 
 		},
 
@@ -27,9 +27,9 @@
 
 			"image": "https://appteamsports.github.io/icon.jpg",
 
-			"url": "https://appteamsports.github.io/#SportsChannels"
+			"url": "https://appteamsports.github.io/#SportsChannels", 
 
-
+			"embed" : true
 
 		},
 
@@ -39,9 +39,9 @@
 
 			"image": "https://appteamsports.github.io/icon.jpg",
 
-			"url": "https://appteamsports.github.io/#live"
-
-
+			"url": "https://appteamsports.github.io/#live", 
+		
+			"embed" : true
 
 		},
 
@@ -53,9 +53,9 @@
 
 			"image": "https://appteamsports.github.io/icon.jpg",
 
-			"url": "https://appteamsports.github.io/#download"
+			"url": "https://appteamsports.github.io/#download", 
 
-
+			"embed" : true
 
 		}
 
