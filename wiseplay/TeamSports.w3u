@@ -1,0 +1,67 @@
+
+ {
+  "name": "Team Sports",
+  "author": " Equipo Team Sports",
+  "url": "http://w3ubin.com/AV54F-Sr.w3u",
+  "image": "https://appteamsports.github.io/icon.jpg",
+  "image1": "https://appteamsports.github.io/icon.jpg",
+  "info":"Lista Oficial creada por equipo Team Sports",
+  "stations": [
+
+                     { 
+
+        "name": "Deportes", 
+
+         "image": "https://appteamsports.github.io/icon.jpg", 
+
+         "url":"https://appteamsports.github.io/#sports", 
+
+        "isHost": true 
+
+       },
+
+ 
+
+{ 
+
+        "name": "Canales", 
+
+         "image": "https://appteamsports.github.io/icon.jpg", 
+
+       "url":"https://appteamsports.github.io/#SportsChannels", 
+
+        "isHost": true 
+
+       },
+
+     { 
+
+        "name": "Webs Deportivas", 
+
+         "image": "https://appteamsports.github.io/icon.jpg", 
+
+       "url":"https://appteamsports.github.io/#live", 
+
+        "isHost": true 
+
+       },
+
+
+
+       { 
+
+       "name": "Descargar APP", 
+
+       "image": "https://appteamsports.github.io/icon.jpg", 
+
+       "url":"https://appteamsports.github.io/#download", 
+
+      "isHost": true 
+
+      }
+
+ 
+
+]
+
+}
