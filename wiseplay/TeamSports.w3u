@@ -8,59 +8,28 @@
   "info":"Lista Oficial creada por equipo Team Sports",
   "stations": [
 	{
-
 			"name": "-Deportes",
-
 			"image": "https://appteamsports.github.io/icon.jpg",
-
-			"url": "https://appteamsports.github.io/#sports", 
-
-			"embed" : true
-
+			"url": "https://appteamsports.github.io/#sports",
+			"embed": true
 		},
-
-
-
 		{
-
 			"name": "-Canales",
-
 			"image": "https://appteamsports.github.io/icon.jpg",
-
-			"url": "https://appteamsports.github.io/#SportsChannels", 
-
-			"embed" : true
-
+			"url": "https://appteamsports.github.io/#SportsChannels",
+			"embed": true
 		},
-
 		{
-
 			"name": "-Webs Deportivas",
-
 			"image": "https://appteamsports.github.io/icon.jpg",
-
-			"url": "https://appteamsports.github.io/#live", 
-		
-			"embed" : true
-
+			"url": "https://appteamsports.github.io/#live",
+			"embed": true
 		},
-
-
-
 		{
-
 			"name": "-Descargar APP",
-
 			"image": "https://appteamsports.github.io/icon.jpg",
-
-			"url": "https://appteamsports.github.io/#download", 
-
-			"embed" : true
-
+			"url": "https://appteamsports.github.io/#download",
+			"embed": true
 		}
-
-
-
 	]
-
 }
