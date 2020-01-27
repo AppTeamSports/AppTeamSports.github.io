@@ -9,7 +9,7 @@
   "stations": [
 	{
 
-			"name": "Deportes",
+			"name": "-Deportes",
 
 			"image": "https://appteamsports.github.io/icon.jpg",
 
@@ -23,7 +23,7 @@
 
 		{
 
-			"name": "Canales",
+			"name": "-Canales",
 
 			"image": "https://appteamsports.github.io/icon.jpg",
 
@@ -35,7 +35,7 @@
 
 		{
 
-			"name": "Webs Deportivas",
+			"name": "-Webs Deportivas",
 
 			"image": "https://appteamsports.github.io/icon.jpg",
 
@@ -49,7 +49,7 @@
 
 		{
 
-			"name": "Descargar APP",
+			"name": "-Descargar APP",
 
 			"image": "https://appteamsports.github.io/icon.jpg",
 
