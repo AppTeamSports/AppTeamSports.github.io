@@ -7,61 +7,60 @@
   "image1": "https://appteamsports.github.io/icon.jpg",
   "info":"Lista Oficial creada por equipo Team Sports",
   "stations": [
+	{
 
-                     { 
+			"name": "Deportes",
 
-        "name": "Deportes", 
+			"image": "https://appteamsports.github.io/icon.jpg",
 
-         "image": "https://appteamsports.github.io/icon.jpg", 
-
-         "url":"https://appteamsports.github.io/#sports", 
-
-        "isHost": true 
-
-       },
-
- 
-
-{ 
-
-        "name": "Canales", 
-
-         "image": "https://appteamsports.github.io/icon.jpg", 
-
-       "url":"https://appteamsports.github.io/#SportsChannels", 
-
-        "isHost": true 
-
-       },
-
-     { 
-
-        "name": "Webs Deportivas", 
-
-         "image": "https://appteamsports.github.io/icon.jpg", 
-
-       "url":"https://appteamsports.github.io/#live", 
-
-        "isHost": true 
-
-       },
+			"url": "https://appteamsports.github.io/#sports"
 
 
 
-       { 
+		},
 
-       "name": "Descargar APP", 
 
-       "image": "https://appteamsports.github.io/icon.jpg", 
 
-       "url":"https://appteamsports.github.io/#download", 
+		{
 
-      "isHost": true 
+			"name": "Canales",
 
-      }
+			"image": "https://appteamsports.github.io/icon.jpg",
 
- 
+			"url": "https://appteamsports.github.io/#SportsChannels"
 
-]
+
+
+		},
+
+		{
+
+			"name": "Webs Deportivas",
+
+			"image": "https://appteamsports.github.io/icon.jpg",
+
+			"url": "https://appteamsports.github.io/#live"
+
+
+
+		},
+
+
+
+		{
+
+			"name": "Descargar APP",
+
+			"image": "https://appteamsports.github.io/icon.jpg",
+
+			"url": "https://appteamsports.github.io/#download"
+
+
+
+		}
+
+
+
+	]
 
 }
