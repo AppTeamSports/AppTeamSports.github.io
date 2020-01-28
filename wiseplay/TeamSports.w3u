@@ -8,8 +8,8 @@
   "stations": [
   {
 			"name": "Canal Telegram",
-			"image": "https://t.me/TeamSportsChannel",
-			"url": "https://appteamsports.github.io/#SportsChannels",
+			"image": "https://appteamsports.github.io/icon.jpg",
+			"url": "https://t.me/TeamSportsChannel",
 			"embed": true
 		},
 	{
