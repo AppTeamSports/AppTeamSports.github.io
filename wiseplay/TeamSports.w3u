@@ -6,6 +6,12 @@
   "image": "https://appteamsports.github.io/icon.jpg",
   "info":"Lista Oficial creada por equipo Team Sports",
   "stations": [
+  {
+			"name": "Canal Telegram",
+			"image": "https://t.me/TeamSportsChannel",
+			"url": "https://appteamsports.github.io/#SportsChannels",
+			"embed": true
+		},
 	{
 			"name": "-Deportes",
 			"image": "https://appteamsports.github.io/icon.jpg",
