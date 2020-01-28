@@ -6,6 +6,7 @@
   "image": "https://appteamsports.github.io/icon.jpg",
   "image1": "https://appteamsports.github.io/icon.jpg",
   "info":"Lista Oficial creada por equipo Team Sports",
+  "telegram": "TeamSportsChannel",
   "stations": [
 	{
 			"name": "-Deportes",
