@@ -1,22 +1,22 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AppTeamSports/AppTeamSports.github.io/master/images/events/3.png", X 20:45 Tottenham-Southampton
-https://g.dailysport.pw/2/2.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AppTeamSports/AppTeamSports.github.io/master/images/events/3.png", X 20:45 Tottenham-Southampton
-https://sportzonline.co/channels/hd/hd2.php
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AppTeamSports/AppTeamSports.github.io/master/images/events/3.png", X 20:45 Tottenham-Southampton
-acestream://891d7f5868ce3cb3d7a0fee485fa48a69af91c9b
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AppTeamSports/AppTeamSports.github.io/master/images/events/4.png", X 20:45 Bayern Múnich-Hoffenheim
-https://g.dailysport.pw/4/4.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AppTeamSports/AppTeamSports.github.io/master/images/events/4.png", X 20:45 Bayern Múnich-Hoffenheim
-https://sportzonline.co/channels/hd/hd3.php
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AppTeamSports/AppTeamSports.github.io/master/images/events/4.png", X 20:45 Bayern Múnich-Hoffenheim
-acestream://ca5b78e00f80e4331320e4c071b3f847bbcb6ed7
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AppTeamSports/AppTeamSports.github.io/master/images/events/1.png", X 21:00 Mirandés-Villarreal
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AppTeamSports/AppTeamSports.github.io/master/images/events/1.png", J 19:00 Real Madrid-Real Sociedad
 https://g.dailysport.pw/1/1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AppTeamSports/AppTeamSports.github.io/master/images/events/1.png", X 21:00 Mirandés-Villarreal
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AppTeamSports/AppTeamSports.github.io/master/images/events/1.png", J 19:00 Real Madrid-Real Sociedad
+https://g.dailysport.pw/2/2.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AppTeamSports/AppTeamSports.github.io/master/images/events/1.png", J 19:00 Real Madrid-Real Sociedad
 https://sportzonline.co/channels/hd/hd6.php
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AppTeamSports/AppTeamSports.github.io/master/images/events/1.png", X 21:00 Mirandés-Villarreal
-acestream://891d7f5868ce3cb3d7a0fee485fa48a69af91c9b
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AppTeamSports/AppTeamSports.github.io/master/images/events/2.png", X 21:00 Valencia Basket-Barcelona
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AppTeamSports/AppTeamSports.github.io/master/images/events/2.png", J 20:00 Alba Berlín-Real Madrid
+https://g.dailysport.pw/5/5.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AppTeamSports/AppTeamSports.github.io/master/images/events/3.png", J 20:00 Atlético Madrid-Barcelona
+http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@39732/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AppTeamSports/AppTeamSports.github.io/master/images/events/4.png", J 20:00 Atlético Madrid-Barcelona
+https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AppTeamSports/AppTeamSports.github.io/master/images/events/4.png", J 20:00 Atlético Madrid-Barcelona
 https://g.dailysport.pw/3/3.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AppTeamSports/AppTeamSports.github.io/master/images/events/4.png", J 20:00 Atlético Madrid-Barcelona
+https://g.dailysport.pw/4/4.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AppTeamSports/AppTeamSports.github.io/master/images/events/4.png", J 20:00 Atlético Madrid-Barcelona
+https://sportzonline.co/channels/hd/hd6.php
+
+
 
