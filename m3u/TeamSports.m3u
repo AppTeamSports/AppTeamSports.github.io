@@ -1,10 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AppTeamSports/AppTeamSports.github.io/master/images/events/1.png", J 19:00 Real Madrid-Real Sociedad
-https://g.dailysport.pw/1/1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AppTeamSports/AppTeamSports.github.io/master/images/events/1.png", J 19:00 Real Madrid-Real Sociedad
-https://g.dailysport.pw/2/2.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AppTeamSports/AppTeamSports.github.io/master/images/events/1.png", J 19:00 Real Madrid-Real Sociedad
-https://sportzonline.co/channels/hd/hd6.php
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AppTeamSports/AppTeamSports.github.io/master/images/events/1.png", Finaliz.(3-4) Real Madrid-Real Sociedad
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AppTeamSports/AppTeamSports.github.io/master/images/events/2.png", J 20:00 Alba Berlín-Real Madrid
 https://g.dailysport.pw/5/5.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AppTeamSports/AppTeamSports.github.io/master/images/events/3.png", J 20:00 Atlético Madrid-Barcelona
