@@ -1,16 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AppTeamSports/AppTeamSports.github.io/master/images/events/1.png", Finaliz.(3-4) Real Madrid-Real Sociedad
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AppTeamSports/AppTeamSports.github.io/master/images/events/2.png", J 20:00 Alba Berlín-Real Madrid
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AppTeamSports/AppTeamSports.github.io/master/images/events/1.png", V 20:30 EUROLIGA Bayern-Valencia Basket
+https://g.dailysport.pw/6/6.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AppTeamSports/AppTeamSports.github.io/master/images/events/1.png", V 21:00 EUROLIGA Barcelona-Olimpia Milano
 https://g.dailysport.pw/5/5.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AppTeamSports/AppTeamSports.github.io/master/images/events/3.png", J 20:00 Atlético Madrid-Barcelona
-http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@39732/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AppTeamSports/AppTeamSports.github.io/master/images/events/4.png", J 21:00 Athletic-Barcelona
-https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AppTeamSports/AppTeamSports.github.io/master/images/events/4.png", J 21:00 Athletic-Barcelona
-https://g.dailysport.pw/3/3.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AppTeamSports/AppTeamSports.github.io/master/images/events/4.png", J 21:00 Athletic-Barcelona
-https://g.dailysport.pw/4/4.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AppTeamSports/AppTeamSports.github.io/master/images/events/2.png", V 21:00 LALIGA SANTANDER Alavés-Eibar
+https://g.dailysport.pw/1/1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AppTeamSports/AppTeamSports.github.io/master/images/events/4.png", V 21:00 LALIGA SANTANDER Alavés-Eibar
+http://boxtv.es:48555/live/zmhBrgZd58/2FmYLNhv8c/13316.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AppTeamSports/AppTeamSports.github.io/master/images/events/4.png", V 21:00 LALIGA SMARTBANK Almería-Racing
+https://g.dailysport.pw/2/2.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AppTeamSports/AppTeamSports.github.io/master/images/events/4.png", V 21:00 LALIGA SMARTBANK Almería-Racing
+http://boxtv.es:48555/live/zmhBrgZd58/2FmYLNhv8c/16011.m3u8
 
 
 
