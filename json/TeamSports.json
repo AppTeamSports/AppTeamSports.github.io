@@ -1,4 +1,4 @@
 [ 
-{"label": "Real Madrid - Real Sociedad", "thumbnail": "https://github.com/AppTeamSports/AppTeamSports.github.io/raw/master/images/icon.jpg", "tipo":"url", "url": "https://g.dailysport.pw/1/1.m3u8"},
-{"label": "FC Barcelona - Atlétic Club", "thumbnail": "https://github.com/AppTeamSports/AppTeamSports.github.io/raw/master/images/icon_t.jpg", "tipo":"url", "url": "https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8"}
+{"label": "Real Madrid - Real Sociedad", "tipo":"url", "url": "https://g.dailysport.pw/1/1.m3u8"},
+{"label": "FC Barcelona - Atlétic Club", "tipo":"url", "url": "https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8"}
 ]
