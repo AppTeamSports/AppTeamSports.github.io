@@ -1,4 +1,5 @@
-[ 
-{"label": "Real Madrid - Real Sociedad", "thumbnail": "https://github.com/AppTeamSports/AppTeamSports.github.io/raw/master/images/icon.jpg", "tipo":"url", "url": "http://bal1boxtv.boxtv.es:37500/live/zmhBrgZd58/2FmYLNhv8c/16011.m3u8?token=TBReBUILFQMaUVZQXwUOAFRXXAVRWgdbVlBSBwMCU1ABVAZWVVMBWwlDShZKFUtVUA5mXwcaXlMBAVUEGRUQEVJEaQ1VQQ0bClJSDRtNG0RYDlwUWQhIQEdYABcPFVdUBgYGRh1BUkFMBBRaWA1mVFQVUFUGGl4MQl0IGRdYCz1TU1sFXwcVAxpRRBgbCEpAE1lXQw9USEBVWBBHVEMAQA0UBVcFWxUVGgIJQVcVS0kTWRtzMBpIQFJJEFBbRAwNWRQMRlxQQgEaTURdSj5LVUIXS1MCVQEQFQtGBRcbRw9WTmkHXg1ZXFsVD1tXEhsKE1IbGkFVCwxeRQtHakcMBhUMFFUGUQALGhw="},
-{"label": "FC Barcelona - Atlétic Club", "thumbnail": "https://github.com/AppTeamSports/AppTeamSports.github.io/raw/master/images/icon.jpg", "tipo":"url", "url": "https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8"}
+[
+    {"label": "S 13:00 LALIGA SANTANDER Levante-Leganés", "thumbnail": "https://raw.githubusercontent.com/AppTeamSports/AppTeamSports.github.io/master/images/events/1.png", "tipo":"url", "url": "https://g.dailysport.pw/1/1.m3u8"},
+    {"label": "S 13:00 LALIGA SANTANDER Levante-Leganés", "thumbnail": "https://raw.githubusercontent.com/AppTeamSports/AppTeamSports.github.io/master/images/events/1.png", "tipo":"url", "url": "http://boxtv.es:48555/live/zmhBrgZd58/2FmYLNhv8c/13316.m3u8"},
+    {"label": "S 13:00 LALIGA SANTANDER Levante-Leganés", "thumbnail": "https://raw.githubusercontent.com/AppTeamSports/AppTeamSports.github.io/master/images/events/1.png", "tipo":"url", "url": "http://boxtv.es:48555/live/zmhBrgZd58/2FmYLNhv8c/23345.m3u8"}
 ]
