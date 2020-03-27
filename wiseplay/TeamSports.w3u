@@ -1,40 +1,45 @@
-
- {
-  "name": "Team Sports",
-  "author": " Equipo Team Sports",
-  "url": "https://appteamsports.github.io/wiseplay/TeamSports.w3u",
-  "image": "https://appteamsports.github.io/icon.jpg",
-  "info":"Lista Oficial creada por equipo Team Sports",
-  "stations": [
-  {
-			"name": "Canal Telegram",
-			"image": "https://appteamsports.github.io/icon.jpg",
-			"url": "https://t.me/TeamSportsChannel",
-			"embed": true
-		},
-	{
-			"name": "-Deportes",
-			"image": "https://appteamsports.github.io/icon.jpg",
-			"url": "https://appteamsports.github.io/#sports",
-			"embed": true
-		},
-		{
-			"name": "-Canales",
-			"image": "https://appteamsports.github.io/icon.jpg",
-			"url": "https://appteamsports.github.io/#SportsChannels",
-			"embed": true
-		},
-		{
-			"name": "-Webs Deportivas",
-			"image": "https://appteamsports.github.io/icon.jpg",
-			"url": "https://appteamsports.github.io/#live",
-			"embed": true
-		},
-		{
-			"name": "-Descargar APP",
-			"image": "https://appteamsports.github.io/icon.jpg",
-			"url": "https://appteamsports.github.io/#download",
-			"embed": true
-		}
-	]
+{
+    "name": "Team Sports",
+    "author": "TeamSports",
+    "url": "https://appteamsports.github.io/wiseplay/TeamSports.w3u",
+    "image": "https://raw.githubusercontent.com/AppTeamSports/AppTeamSports.github.io/master/images/icon.png",
+    "info": "Lista Oficial creada por equipo Team Sports",
+    "groups": [
+        {
+            "name": "Team Sports WEB",
+            "image": "https://raw.githubusercontent.com/AppTeamSports/AppTeamSports.github.io/master/images/icon.png",
+            "stations": [
+                {
+                    "name": "Eventos",
+                    "image": "https://raw.githubusercontent.com/AppTeamSports/AppTeamSports.github.io/master/images/icon.png",
+                    "embed": "true",
+                    "url": "https://appteamsports.github.io/#sports"
+                },
+                {
+                    "name": "Canales",
+                    "image": "https://raw.githubusercontent.com/AppTeamSports/AppTeamSports.github.io/master/images/icon.png",
+                    "embed": "true",
+                    "url": "https://appteamsports.github.io/#SportsChannels"
+                },                
+                {
+                    "name": "APK",
+                    "image": "https://raw.githubusercontent.com/AppTeamSports/AppTeamSports.github.io/master/images/icon.png",
+                    "embed": "true",
+                    "url": "http://appteamsports.github.io/TeamSports.apk"
+                }
+            ]
+        },
+        {
+            "name": "Dailysport",
+            "image": "https://raw.githubusercontent.com/AppTeamSports/AppTeamSports.github.io/master/images/streams/daily.jpg",
+            "stations": [
+                {
+                    "name": "WEB",
+                    "image": "https://raw.githubusercontent.com/AppTeamSports/AppTeamSports.github.io/master/images/streams/daily.jpg",
+                    "embed": "true",
+                    "url": "https://dailysport.pw/"
+                }
+            ]
+        }
+    ]
 }
